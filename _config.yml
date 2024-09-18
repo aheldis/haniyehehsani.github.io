@@ -1,22 +1,22 @@
 # Basic Information 
-title: Mehrdad Saberi
+title: Haniyeh Ehsani
 position: Ph.D. Student
-affiliation: University of Maryland
-email: msaberi@umd.edu
+affiliation: University of California, Los Angeles
+email: haniyeh@cs.ucla.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: homepage, mehrdad saberi, mehrdad, saberi
-description: Homepage of Mehrdad Saberi.
+keywords: homepage, Haniyeh Ehsani, Haniyeh, Ehsani
+description: Homepage of Haniyeh Ehsani.
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=qCZacxgAAAAJ&hl=en
+google_scholar: https://scholar.google.com/citations?hl=en&user=MhWarpQAAAAJ
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/mehrdadsaberi
-linkedin: https://www.linkedin.com/in/mehrdads/
-twitter: https://twitter.com/MerhdadS
+linkedin: https://www.linkedin.com/in/haniyeh-ehsani/
+# twitter: https://twitter.com/MerhdadS
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 

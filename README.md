@@ -1,3 +1,3 @@
-# Homepage of Mehrdad Saberi
+# Homepage of Haniyeh Ehsani
 
-This repository contains materials on my [homepage](https://mehrdadsaberi.github.io).
+This repository contains materials on my [homepage](https://haniyehehsani.github.io/website).
