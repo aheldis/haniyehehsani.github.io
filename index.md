@@ -19,10 +19,10 @@ I am mostly interested in the intersection of Machine Learning with other fields
 
 ## Education
 
-| University of California, Los Angeles (UCLA) | <ul><li>Computer Science (Doctorate of Philosophy)</li><li>GPA: 3.78/4 | Supervisor: Prof. Majid Sarrafzadeh</li></ul> |
-| ----------- | ----------- |
-| Sharif University of Technology| <ul><li>Computer Engineering (Bachelor of Science)</li><li>GPA (154 Total Credits): 18.24/20 (3.72/4) | Supervisor: Prof. Shohreh Kasaei</li></ul> |
-| ----------- | ----------- |
-| Farzanegan 1| <ul><li>Mathematics and Physics (Diploma)</li><li>Affiliated with the National Organization for the Development of Exceptional Talents (NODET)</li><li>GPA: 19.69/20 (4/4) | Top 0.1/li></ul> |
+| University of California, Los Angeles (UCLA) | Computer Science (Doctorate of Philosophy)|GPA: 3.78/4 - Supervisor: Prof. Majid Sarrafzadeh |
+| ------------------------------------------- | --------------------------------- |
+| Sharif University of Technology| Computer Engineering (Bachelor of Science)| GPA (154 Total Credits): 18.24/20 (3.72/4) - Supervisor: Prof. Shohreh Kasaei</li></ul> |
+| ------------------------------------------- | --------------------------------- |
+| Farzanegan 1| Mathematics and Physics (Diploma)|Affiliated with the National Organization for the Development of Exceptional Talents (NODET)|GPA: 19.69/20 (4/4)|
 
 {% include_relative _includes/publications.md %}
