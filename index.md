@@ -27,4 +27,4 @@ I am mostly interested in the intersection of Machine Learning with other fields
 | ------------------------------------------- | --------------------------------- |  --------------------------------- |
 | Farzanegan 1| Mathematics and Physics (Diploma)|Affiliated with the National Organization for the Development of Exceptional Talents (NODET) - GPA: 19.69/20 (4/4)|
 
-<!-- {% include_relative _includes/publications.md %} -->
+{% include_relative _includes/publications.md %}
