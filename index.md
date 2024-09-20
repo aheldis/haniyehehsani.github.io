@@ -15,7 +15,7 @@ I am mostly interested in the intersection of Machine Learning with other fields
 - **Adversarial Attacks and Robustness** 
 - **Interpretability**
 - **Optical Flow and Scene Flow Estimation**
-- **Theoretical Machine Learning**
+- **Applied Machine Learning**
 
 ## Education
 
