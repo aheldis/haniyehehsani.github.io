@@ -4,6 +4,7 @@
 <div class="publications">
 <ol class="bibliography">
 
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -16,14 +17,14 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://drive.google.com/file/d/1qAlzK9W2X1PSfzMcyOA_5AiY_VPEfWi1/view">Leveraging Large Language Models and Topic Modeling for Toxicity Classification</a></div>
-      <div class="author">
+     <div class="author">
      <strong> Haniyeh Ehsani Oskouie*</strong>, Christina Chance*, Claire Huang*, Margaret Capetz*, Elizabeth Eyeson*, Majid Sarrafzadeh
      </div>
       <!-- <div class="periodical"><em></em></div> -->
     <div class="links">
        
       <a href="https://drive.google.com/file/d/1qAlzK9W2X1PSfzMcyOA_5AiY_VPEfWi1/view" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
+
     </div>
   </div>
 </div>
@@ -114,6 +115,9 @@ Speech and Signal Processing (ICASSP 2023)</em>
 </li>
 
 <br />
+
+
+
 
 </ol>
 </div>
