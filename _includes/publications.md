@@ -56,7 +56,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/pdf/2404.13621">Attack on Scene Flow using 3D Point Clouds</a></div>
       <div class="author"><strong> Haniyeh Ehsani Oskouie</strong>, Mohammad-Shahram Moin, Shohreh Kasaei</div>
-      <div class="periodical"><em>IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2024)</em>
+      <div class="periodical"><em>IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2024)</em></div> 
       <div class="links">
         <a href="https://arxiv.org/pdf/2404.13621" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       </div>
