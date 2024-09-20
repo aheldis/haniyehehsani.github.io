@@ -12,7 +12,7 @@
     <img src="./assets/img/cross-correlation.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
     
      
-    <abbr class="badge">Preprint</abbr>
+    <abbr class="badge">arXiv</abbr>
     
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -32,6 +32,30 @@
 
 <br />
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+     
+    <img src="./assets/img/attack-scene-flow.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+    
+     
+    <abbr class="badge">IEEE</abbr>
+    
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/pdf/2404.13621">Attack on Scene Flow using 3D Point Clouds</a></div>
+      <div class="author">
+     <strong> Haniyeh Ehsani Oskouie</strong>, Mohammad-Shahram Moin, Shohreh Kasaei
+     </div>
+      <!-- <div class="periodical"><em></em></div> -->
+    <div class="links">
+       
+      <a href="https://arxiv.org/pdf/2404.13621" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      
+    </div>
+  </div>
+</div>
+</li>
 
 </ol>
 </div>
